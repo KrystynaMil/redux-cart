@@ -1,7 +1,7 @@
 # redux-cart()
 Advanced Redux app. Shopping cart created with redux toolkit.Side Effects, Async Tasks & Redux
 
-![Demo]()
+![Demo](https://github.com/KrystynaMil/redux-cart/blob/main/public/screen.png)
 
 ## Created with:
 - React.js
