@@ -1,4 +1,4 @@
-# redux-cart(https://adv-redux-cart.netlify.app/)
+# [redux-cart](https://adv-redux-cart.netlify.app/)
 Advanced Redux app. Shopping cart created with redux toolkit.Side Effects, Async Tasks & Redux
 
 ![Demo](https://github.com/KrystynaMil/redux-cart/blob/main/public/screen.png)
